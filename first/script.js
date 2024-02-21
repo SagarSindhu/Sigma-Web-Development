@@ -1,0 +1,1 @@
+alert("welcome to first code of js")
